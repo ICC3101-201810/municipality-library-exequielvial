@@ -1,0 +1,1 @@
+El error que podemos notar es que una clase persona específica digámosle 'a' debe tomar una clase específica adress digámosle 'b', la cual al mismo tiempo debe tomar la clase persona 'a', lo cual no tiene sentido ya que para crear una se debe crear la otra.
